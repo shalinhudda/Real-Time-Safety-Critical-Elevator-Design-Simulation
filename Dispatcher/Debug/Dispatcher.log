@@ -1,0 +1,5 @@
+﻿  Dispatcher.cpp
+C:\Users\shali\OneDrive\4th year 1st term\CPEN 333\Lab3\Lab3\Dispatcher\Dispatcher.cpp(678,7): warning C4101:  'desired_elevator': unreferenced local variable
+C:\Users\shali\OneDrive\4th year 1st term\CPEN 333\Lab3\Lab3\Dispatcher\Dispatcher.cpp(872,13): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\shali\OneDrive\4th year 1st term\CPEN 333\Lab3\Lab3\Dispatcher\Dispatcher.cpp(1204,7): warning C4101:  'PipeData': unreferenced local variable
+  Dispatcher.vcxproj -> C:\Users\shali\OneDrive\4th year 1st term\CPEN 333\Lab3\Lab3\Debug\Dispatcher.exe

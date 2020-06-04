@@ -1,0 +1,5 @@
+﻿  Elevator1.cpp
+  rt.cpp
+  Generating Code...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\shali\OneDrive\4th year 1st term\CPEN 333\Lab3\Lab3\Debug\Elevator1.exe : fatal error LNK1120: 1 unresolved externals
